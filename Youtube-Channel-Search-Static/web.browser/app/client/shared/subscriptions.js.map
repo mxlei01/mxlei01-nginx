@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/shared/subscriptions.js"],"names":[],"mappings":";;;;;;;;;AACA,IAAI,gBAAgB,GAAG,IAAI,CAAC;AAC5B,IAAI,kBAAkB,GAAG,IAAI,CAAC,6C","file":"/client/shared/subscriptions.js","sourcesContent":["// Store subscriptions so that we can stop them later\nvar commentSubscribe = null;\nvar userVideoSubscribe = null;\n"]}

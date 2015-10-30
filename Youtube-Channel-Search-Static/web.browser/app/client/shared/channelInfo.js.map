@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/shared/channelInfo.js"],"names":[],"mappings":";;;;;;;;;AACA,IAAI,SAAS,GAAG,EAAE,CAAC,wD","file":"/client/shared/channelInfo.js","sourcesContent":["// Keep track of the channelId that we retrieve from comments\nvar channelId = \"\";\n"]}
